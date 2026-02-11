@@ -14,11 +14,15 @@ This project showcases intentional theme customization and responsive layout dec
 
 ## Screenshots
 
-### Desktop
-![Homepage Desktop](screenshots/home-desktop.png)
+## Desktop View
 
-### Mobile
-![Homepage Mobile](screenshots/home-mobile.png)
+![Home Desktop](screenshots/home-desktop.png)
+![About Desktop](screenshots/about-desktop.png)
+
+## Mobile View
+
+![Home Mobile](screenshots/home-mobile.png)
+![About Mobile](screenshots/about-mobile.png)
 
 ## Tools Used
 - WordPress (LocalWP)
